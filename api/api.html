@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>JSON API Output</title>
+    <style>
+        body {
+            background-color: #0e121a;
+            color: #f3f4f6;
+            font-family: monospace;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            padding: 15px;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<script>
+    const CATEGORIES = ['aksesuar', 'alt_giyim', 'dis_giyim', 'elbise', 'ust_giyim'];
+    const TURKISH_MONTHS = {
+        1: "Ocak", 2: "Şubat", 3: "Mart", 4: "Nisan", 5: "Mayıs", 6: "Haziran",
+        7: "Temmuz", 8: "Ağustos", 9: "Eylül", 10: "Ekim", 11: "Kasım", 12: "Aralık"
+    };
+
+    function formatDateTr(timestampMs) {
+        if (!timestampMs) return "";
+        try {
+            const dt = new Date(timestampMs);
+            const day = String(dt.getDate()).padStart(2, '0');
+            const monthName = TURKISH_MONTHS[dt.getMonth() + 1];
+            const year = dt.getFullYear();
+            return `${day} ${monthName} ${year}`;
+        } catch (e) {
+            return "";
+        }
+    }
+
+    function mapToListStyle(prod) {
+        return {
+            id: String(prod.id),
+            title: prod.name || "",
+            price: Number(prod.currentPrice || 0.0).toFixed(2),
+            image: prod.imageUrl || "",
+            url: prod.url || "",
+            rating: prod.rating ? Math.round(prod.rating * 10) / 10 : 0.0,
+            commentCount: prod.reviewsCount !== null && prod.reviewsCount !== undefined ? Number(prod.reviewsCount) : 0
+        };
+    }
+
+    function fetchCategoryProducts(cat) {
+        return fetch(`scraped_products/${cat}.json`)
+            .then(res => {
+                if (!res.ok) throw new Error(`${cat} products not found`);
+                return res.json();
+            })
+            .then(data => data.products || []);
+    }
+
+    function fetchCategoryReviews(cat) {
+        return fetch(`scraped_reviews/${cat}_reviews.json`)
+            .then(res => {
+                if (!res.ok) throw new Error(`${cat} reviews not found`);
+                return res.json();
+            })
+            .then(data => data.reviews || {});
+    }
+
+    function renderJSON(data) {
+        document.body.textContent = JSON.stringify(data, null, 4);
+    }
+
+    function renderError(msg) {
+        document.body.textContent = JSON.stringify({ error: msg }, null, 4);
+    }
+
+    function main() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const urun_id = urlParams.get('urun_id');
+        const bolum = urlParams.get('bolum');
+        const stil = urlParams.get('stil') || 'liste';
+
+        if (urun_id) {
+            Promise.all(CATEGORIES.map(cat => {
+                return fetchCategoryProducts(cat)
+                    .then(products => {
+                        const found = products.find(p => String(p.id) === String(urun_id));
+                        return found ? { product: found, category: cat } : null;
+                    });
+            }))
+            .then(results => {
+                const foundResult = results.find(r => r !== null);
+                if (!foundResult) {
+                    throw new Error(`Product with ID '${urun_id}' not found`);
+                }
+                const { product, category } = foundResult;
+
+                return fetchCategoryReviews(category)
+                    .then(reviewsDict => {
+                        const prodReviews = reviewsDict[urun_id] || [];
+                        const mappedReviews = prodReviews.map(r => ({
+                            rating: r.rate !== null && r.rate !== undefined ? Number(r.rate) : 5,
+                            reviewerName: r.userFullName || "Gizli Kullanıcı",
+                            reviewDate: formatDateTr(r.createdAt),
+                            attributes: {},
+                            comment: r.comment || "",
+                            seller: null,
+                            likeCount: r.likesCount !== null && r.likesCount !== undefined ? Number(r.likesCount) : 0,
+                            images: r.mediaFiles || []
+                        }));
+
+                        const hybridProduct = {
+                            id: String(product.id),
+                            title: product.name || "",
+                            price: Number(product.currentPrice || 0.0).toFixed(2),
+                            image: product.imageUrl || "",
+                            url: product.url || "",
+                            rating: product.rating ? Math.round(product.rating * 10) / 10 : 0.0,
+                            commentCount: product.reviewsCount !== null && product.reviewsCount !== undefined ? Number(product.reviewsCount) : 0,
+                            reviews: mappedReviews
+                        };
+
+                        renderJSON([hybridProduct]);
+                    });
+            })
+            .catch(err => {
+                renderError(err.message);
+            });
+        } else if (bolum) {
+            let fetchPromise;
+            if (bolum === 'anasayfa') {
+                fetchPromise = Promise.all(CATEGORIES.map(cat => fetchCategoryProducts(cat)))
+                    .then(results => results.flat());
+            } else {
+                if (!CATEGORIES.includes(bolum)) {
+                    renderError(`Invalid bolum: ${bolum}`);
+                    return;
+                }
+                fetchPromise = fetchCategoryProducts(bolum);
+            }
+
+            fetchPromise
+                .then(products => {
+                    const mapped = products.map(mapToListStyle);
+                    renderJSON(mapped);
+                })
+                .catch(err => {
+                    renderError(err.message);
+                });
+        } else {
+            // Default to anasayfa
+            Promise.all(CATEGORIES.map(cat => fetchCategoryProducts(cat)))
+                .then(results => {
+                    return results.flat();
+                })
+                .then(products => {
+                    const mapped = products.map(mapToListStyle);
+                    renderJSON(mapped);
+                })
+                .catch(err => {
+                    renderError(err.message);
+                });
+        }
+    }
+
+    main();
+</script>
+</body>
+</html>
