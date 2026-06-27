@@ -1,0 +1,2161 @@
+{
+  "metadata": {
+    "categoryKey": "aksesuar",
+    "merchantId": "703274",
+    "sortValue": "SCORE",
+    "totalCount": 10,
+    "targetTotalCount": 10,
+    "scrapedAt": "2026-06-24T21:11:57.753Z"
+  },
+  "products": [
+    {
+      "id": 1082010167,
+      "brand": "VODENS",
+      "name": "2'li Beyaz Kahve %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 175.63,
+      "originalPrice": 175.63,
+      "discountedPrice": 175.63,
+      "trendyolPlusPrice": 166.85,
+      "currency": "TL",
+      "rating": 4.27906976744186,
+      "reviewsCount": 43,
+      "favoriteCount": "4K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-beyaz-kahve-100-pamuk-esnek-sac-bandi-p-1082010167?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/d7bb7e38-b9cf-3ab8-b7eb-257d18554666/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082010167,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082010167,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/d7bb7e38-b9cf-3ab8-b7eb-257d18554666/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/d7bb7e38-b9cf-3ab8-b7eb-257d18554666/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/badd7383-1cb2-3088-bd16-8ecd554bae8f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/0f750932-317f-341c-90f6-5514c89b987c/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271452,
+        "listingId": "7ce3acd9d4c00b5f27be958e756d47e7",
+        "name": "2'li Beyaz Kahve %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 175.63,
+          "currentText": "175,63",
+          "originalPrice": 175.63,
+          "originalPriceText": "175,63",
+          "discountedPrice": 175.63,
+          "discountedPriceText": "175,63",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.27906976744186,
+          "totalCount": 43
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-beyaz-kahve-100-pamuk-esnek-sac-bandi-p-1082010167?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Beyaz Kahve %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "4K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28741468,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Sepette %5 indirim",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "175,63 TL",
+          "priceNumerized": 175.63,
+          "priceWithoutCurrency": "175,63",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "175,63 TL",
+          "salePriceWihoutCurrency": "175,63",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "175,63",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "166.85"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "175,63",
+          "newPrice": "160,63",
+          "integerPart": "160,63",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "175,63 TL",
+          "salePriceWihoutCurrency": "175,63",
+          "salePriceNumeric": 175.63,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "166.85",
+              "price": "166,85 TL",
+              "priceWithoutCurrency": "166,85"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28741468,
+          "name": "Sepette %5 indirim",
+          "promotionEndDate": "2026-06-29T23:59:59",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1144294184,
+      "brand": "VODENS",
+      "name": "Puanlı Pembe ve Puanlı Beyaz %95 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 190.63,
+      "originalPrice": 190.63,
+      "discountedPrice": 190.63,
+      "trendyolPlusPrice": 181.1,
+      "currency": "TL",
+      "rating": 4.846153846153846,
+      "reviewsCount": 13,
+      "favoriteCount": "4K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/puanli-pembe-ve-puanli-beyaz-95-pamuk-esnek-sac-bandi-p-1144294184?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260512/12/bedacf80-92bb-3acf-a122-efc0629c20de/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1144294184,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1144294184,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260512/12/bedacf80-92bb-3acf-a122-efc0629c20de/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260512/12/bedacf80-92bb-3acf-a122-efc0629c20de/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1896/prod/QC_PREP/20260512/12/c81ee5e1-fd01-3854-90e9-50d9bde7a47d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1903/prod/QC_PREP/20260512/12/6a90291c-0c3e-3051-8743-c88de4091c6a/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1599697764,
+        "listingId": "b2805dc312daa6ce2cdb31b48ae7d3c0",
+        "name": "Puanlı Pembe ve Puanlı Beyaz %95 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 190.63,
+          "currentText": "190,63",
+          "originalPrice": 190.63,
+          "originalPriceText": "190,63",
+          "discountedPrice": 190.63,
+          "discountedPriceText": "190,63",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.846153846153846,
+          "totalCount": 13
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/puanli-pembe-ve-puanli-beyaz-95-pamuk-esnek-sac-bandi-p-1144294184?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Puanlı Pembe ve Puanlı Beyaz %95 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "4K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28741468,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Sepette %5 indirim",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "190,63 TL",
+          "priceNumerized": 190.63,
+          "priceWithoutCurrency": "190,63",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "190,63 TL",
+          "salePriceWihoutCurrency": "190,63",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "190,63",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "181.10"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "190,63",
+          "newPrice": "175,63",
+          "integerPart": "175,63",
+          "decimalPart": "00",
+          "discountPercentage": 8,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "190,63 TL",
+          "salePriceWihoutCurrency": "190,63",
+          "salePriceNumeric": 190.63,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "181.10",
+              "price": "181,10 TL",
+              "priceWithoutCurrency": "181,10"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28741468,
+          "name": "Sepette %5 indirim",
+          "promotionEndDate": "2026-06-29T23:59:59",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082009895,
+      "brand": "VODENS",
+      "name": "2'li Siyah Beyaz %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 176.45,
+      "originalPrice": 176.45,
+      "discountedPrice": 176.45,
+      "trendyolPlusPrice": 167.63,
+      "currency": "TL",
+      "rating": 3.8805970149253732,
+      "reviewsCount": 67,
+      "favoriteCount": "8K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-siyah-beyaz-100-pamuk-esnek-sac-bandi-p-1082009895?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/1b7d1ae2-4fb7-3e86-a751-a0fdec70d9d4/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082009895,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082009895,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/1b7d1ae2-4fb7-3e86-a751-a0fdec70d9d4/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/1b7d1ae2-4fb7-3e86-a751-a0fdec70d9d4/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/badd7383-1cb2-3088-bd16-8ecd554bae8f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/92429003-60df-338b-ba63-c47609f53345/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271113,
+        "listingId": "7e174644b58e64f433bc5f302abb6c43",
+        "name": "2'li Siyah Beyaz %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 176.45,
+          "currentText": "176,45",
+          "originalPrice": 176.45,
+          "originalPriceText": "176,45",
+          "discountedPrice": 176.45,
+          "discountedPriceText": "176,45",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.8805970149253732,
+          "totalCount": 67
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-siyah-beyaz-100-pamuk-esnek-sac-bandi-p-1082009895?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Siyah Beyaz %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "8K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "176,45 TL",
+          "priceNumerized": 176.45,
+          "priceWithoutCurrency": "176,45",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "176,45 TL",
+          "salePriceWihoutCurrency": "176,45",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "176,45",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "167.63"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "176,45",
+          "newPrice": "161,45",
+          "integerPart": "161,45",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "176,45 TL",
+          "salePriceWihoutCurrency": "176,45",
+          "salePriceNumeric": 176.45,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "167.63",
+              "price": "167,63 TL",
+              "priceWithoutCurrency": "167,63"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082009906,
+      "brand": "VODENS",
+      "name": "2'li Siyah Bordo %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 176.14,
+      "originalPrice": 176.14,
+      "discountedPrice": 176.14,
+      "trendyolPlusPrice": 167.33,
+      "currency": "TL",
+      "rating": 4.125,
+      "reviewsCount": 16,
+      "favoriteCount": "1K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-siyah-bordo-100-pamuk-esnek-sac-bandi-p-1082009906?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/7db64f83-28f9-3e98-95e1-264c026fed1b/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082009906,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082009906,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/7db64f83-28f9-3e98-95e1-264c026fed1b/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/7db64f83-28f9-3e98-95e1-264c026fed1b/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/92429003-60df-338b-ba63-c47609f53345/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/96cb8bd0-b345-3fc3-a54a-10aa07b3bcc8/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271130,
+        "listingId": "9bcf17a48e1889054c5910b8c9c782b3",
+        "name": "2'li Siyah Bordo %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 176.14,
+          "currentText": "176,14",
+          "originalPrice": 176.14,
+          "originalPriceText": "176,14",
+          "discountedPrice": 176.14,
+          "discountedPriceText": "176,14",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.125,
+          "totalCount": 16
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-siyah-bordo-100-pamuk-esnek-sac-bandi-p-1082009906?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Siyah Bordo %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "1K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "176,14 TL",
+          "priceNumerized": 176.14,
+          "priceWithoutCurrency": "176,14",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "176,14 TL",
+          "salePriceWihoutCurrency": "176,14",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "176,14",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "167.33"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "176,14",
+          "newPrice": "161,14",
+          "integerPart": "161,14",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "176,14 TL",
+          "salePriceWihoutCurrency": "176,14",
+          "salePriceNumeric": 176.14,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "167.33",
+              "price": "167,33 TL",
+              "priceWithoutCurrency": "167,33"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082010157,
+      "brand": "VODENS",
+      "name": "2'li Kahve Bordo %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 174.86,
+      "originalPrice": 174.86,
+      "discountedPrice": 174.86,
+      "trendyolPlusPrice": 166.12,
+      "currency": "TL",
+      "rating": 4.275,
+      "reviewsCount": 40,
+      "favoriteCount": "3K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-kahve-bordo-100-pamuk-esnek-sac-bandi-p-1082010157?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/3229bd04-efe9-3858-b7f1-786300f474e3/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082010157,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082010157,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/3229bd04-efe9-3858-b7f1-786300f474e3/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/3229bd04-efe9-3858-b7f1-786300f474e3/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/0f750932-317f-341c-90f6-5514c89b987c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/96cb8bd0-b345-3fc3-a54a-10aa07b3bcc8/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271438,
+        "listingId": "04eb9243af6661d61f3c2face7268359",
+        "name": "2'li Kahve Bordo %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 174.86,
+          "currentText": "174,86",
+          "originalPrice": 174.86,
+          "originalPriceText": "174,86",
+          "discountedPrice": 174.86,
+          "discountedPriceText": "174,86",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.275,
+          "totalCount": 40
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-kahve-bordo-100-pamuk-esnek-sac-bandi-p-1082010157?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Kahve Bordo %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "3K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "174,86 TL",
+          "priceNumerized": 174.86,
+          "priceWithoutCurrency": "174,86",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "174,86 TL",
+          "salePriceWihoutCurrency": "174,86",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "174,86",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "166.12"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "174,86",
+          "newPrice": "159,86",
+          "integerPart": "159,86",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "174,86 TL",
+          "salePriceWihoutCurrency": "174,86",
+          "salePriceNumeric": 174.86,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "166.12",
+              "price": "166,12 TL",
+              "priceWithoutCurrency": "166,12"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082010171,
+      "brand": "VODENS",
+      "name": "2'li Siyah Gri %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 175.37,
+      "originalPrice": 175.37,
+      "discountedPrice": 175.37,
+      "trendyolPlusPrice": 166.6,
+      "currency": "TL",
+      "rating": 4.619047619047619,
+      "reviewsCount": 21,
+      "favoriteCount": "1K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-siyah-gri-100-pamuk-esnek-sac-bandi-p-1082010171?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/7ec46215-a95f-3d36-af05-e95aa8e605a6/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082010171,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082010171,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/7ec46215-a95f-3d36-af05-e95aa8e605a6/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/7ec46215-a95f-3d36-af05-e95aa8e605a6/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/b4f71808-aee3-3ef8-b184-2416ada0c391/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/92429003-60df-338b-ba63-c47609f53345/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271457,
+        "listingId": "81a905b0f620b07a6c54b219478f2964",
+        "name": "2'li Siyah Gri %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 175.37,
+          "currentText": "175,37",
+          "originalPrice": 175.37,
+          "originalPriceText": "175,37",
+          "discountedPrice": 175.37,
+          "discountedPriceText": "175,37",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.619047619047619,
+          "totalCount": 21
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-siyah-gri-100-pamuk-esnek-sac-bandi-p-1082010171?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Siyah Gri %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "1K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "175,37 TL",
+          "priceNumerized": 175.37,
+          "priceWithoutCurrency": "175,37",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "175,37 TL",
+          "salePriceWihoutCurrency": "175,37",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "175,37",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "166.60"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "175,37",
+          "newPrice": "160,37",
+          "integerPart": "160,37",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "175,37 TL",
+          "salePriceWihoutCurrency": "175,37",
+          "salePriceNumeric": 175.37,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "166.60",
+              "price": "166,60 TL",
+              "priceWithoutCurrency": "166,60"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082009896,
+      "brand": "VODENS",
+      "name": "2'li Beyaz Gri %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 171.86,
+      "originalPrice": 171.86,
+      "discountedPrice": 171.86,
+      "trendyolPlusPrice": 163.27,
+      "currency": "TL",
+      "rating": 3.3333333333333335,
+      "reviewsCount": 3,
+      "favoriteCount": "363",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-beyaz-gri-100-pamuk-esnek-sac-bandi-p-1082009896?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/b3522685-a695-38ad-97ad-9f45cc7f49c5/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082009896,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082009896,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/b3522685-a695-38ad-97ad-9f45cc7f49c5/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1809/prod/QC_PREP/20260109/10/b3522685-a695-38ad-97ad-9f45cc7f49c5/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/badd7383-1cb2-3088-bd16-8ecd554bae8f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/b4f71808-aee3-3ef8-b184-2416ada0c391/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271116,
+        "listingId": "bb2af820ed3b16b4589e6e7d816e53c0",
+        "name": "2'li Beyaz Gri %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 171.86,
+          "currentText": "171,86",
+          "originalPrice": 171.86,
+          "originalPriceText": "171,86",
+          "discountedPrice": 171.86,
+          "discountedPriceText": "171,86",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.3333333333333335,
+          "totalCount": 3
+        },
+        "stamps": {},
+        "tagDetails": [
+          {
+            "displayName": "",
+            "hasStamp": true,
+            "tag": "eventdeal",
+            "tagId": 9637,
+            "tagType": "EventDealBadge"
+          },
+          {
+            "displayName": "Avantajlı Ürün",
+            "hasStamp": true,
+            "tag": "sari_kampanya_urunu",
+            "tagId": 4897,
+            "tagType": "CampaignBadge"
+          }
+        ],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-beyaz-gri-100-pamuk-esnek-sac-bandi-p-1082009896?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Beyaz Gri %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "363"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "171,86 TL",
+          "priceNumerized": 171.86,
+          "priceWithoutCurrency": "171,86",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "171,86 TL",
+          "salePriceWihoutCurrency": "171,86",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "171,86",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "163.27"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "171,86",
+          "newPrice": "156,86",
+          "integerPart": "156,86",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "171,86 TL",
+          "salePriceWihoutCurrency": "171,86",
+          "salePriceNumeric": 171.86,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "163.27",
+              "price": "163,27 TL",
+              "priceWithoutCurrency": "163,27"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1082009901,
+      "brand": "VODENS",
+      "name": "2'li Bordo Beyaz %100 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 174.77,
+      "originalPrice": 174.77,
+      "discountedPrice": 174.77,
+      "trendyolPlusPrice": 166.03,
+      "currency": "TL",
+      "rating": 3.6666666666666665,
+      "reviewsCount": 6,
+      "favoriteCount": "400",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-bordo-beyaz-100-pamuk-esnek-sac-bandi-p-1082009901?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/f70f4610-861e-3ed4-b0ac-3d7a17e42d3b/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1082009901,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1082009901,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/f70f4610-861e-3ed4-b0ac-3d7a17e42d3b/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/f70f4610-861e-3ed4-b0ac-3d7a17e42d3b/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/badd7383-1cb2-3088-bd16-8ecd554bae8f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1811/prod/QC_PREP/20260109/10/96cb8bd0-b345-3fc3-a54a-10aa07b3bcc8/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1495271121,
+        "listingId": "4ac6baf25e7810feb162abceaa8c99fb",
+        "name": "2'li Bordo Beyaz %100 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 174.77,
+          "currentText": "174,77",
+          "originalPrice": 174.77,
+          "originalPriceText": "174,77",
+          "discountedPrice": 174.77,
+          "discountedPriceText": "174,77",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.6666666666666665,
+          "totalCount": 6
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-bordo-beyaz-100-pamuk-esnek-sac-bandi-p-1082009901?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Bordo Beyaz %100 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "400"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "174,77 TL",
+          "priceNumerized": 174.77,
+          "priceWithoutCurrency": "174,77",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "174,77 TL",
+          "salePriceWihoutCurrency": "174,77",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "174,77",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "166.03"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "174,77",
+          "newPrice": "159,77",
+          "integerPart": "159,77",
+          "decimalPart": "00",
+          "discountPercentage": 9,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "174,77 TL",
+          "salePriceWihoutCurrency": "174,77",
+          "salePriceNumeric": 174.77,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "166.03",
+              "price": "166,03 TL",
+              "priceWithoutCurrency": "166,03"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1124623827,
+      "brand": "VODENS",
+      "name": "4'lü Siyah Beyaz ve Siyah Çizgi Bordo Çizgi %95 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 321.97,
+      "originalPrice": 321.97,
+      "discountedPrice": 321.97,
+      "trendyolPlusPrice": 305.87,
+      "currency": "TL",
+      "rating": null,
+      "reviewsCount": null,
+      "favoriteCount": "239",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/4-lu-siyah-beyaz-ve-siyah-cizgi-bordo-cizgi-95-pamuk-esnek-sac-bandi-p-1124623827?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1846/prod/QC_PREP/20260327/18/e8e7447b-1048-3516-ad34-517d911403ff/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1124623827,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1124623827,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1846/prod/QC_PREP/20260327/18/e8e7447b-1048-3516-ad34-517d911403ff/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1846/prod/QC_PREP/20260327/18/e8e7447b-1048-3516-ad34-517d911403ff/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1846/prod/QC_PREP/20260327/18/b2fa0db6-a3d5-3923-965a-0e223fd2774d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1845/prod/QC_PREP/20260327/18/afeda064-4abd-3c75-9dca-40f3ec3c06ff/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/92429003-60df-338b-ba63-c47609f53345/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1810/prod/QC_PREP/20260109/10/badd7383-1cb2-3088-bd16-8ecd554bae8f/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1569152483,
+        "listingId": "0e83d18e22e84df92c99d344f6e478d7",
+        "name": "4'lü Siyah Beyaz ve Siyah Çizgi Bordo Çizgi %95 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 321.97,
+          "currentText": "321,97",
+          "originalPrice": 321.97,
+          "originalPriceText": "321,97",
+          "discountedPrice": 321.97,
+          "discountedPriceText": "321,97",
+          "currencySymbol": "TL"
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/4-lu-siyah-beyaz-ve-siyah-cizgi-bordo-cizgi-95-pamuk-esnek-sac-bandi-p-1124623827?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": true,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "4'lü Siyah Beyaz ve Siyah Çizgi Bordo Çizgi %95 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "239"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "321,97 TL",
+          "priceNumerized": 321.97,
+          "priceWithoutCurrency": "321,97",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "321,97 TL",
+          "salePriceWihoutCurrency": "321,97",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "321,97",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "305.87"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "321,97",
+          "newPrice": "306,97",
+          "integerPart": "306,97",
+          "decimalPart": "00",
+          "discountPercentage": 5,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "321,97 TL",
+          "salePriceWihoutCurrency": "321,97",
+          "salePriceNumeric": 321.97,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "305.87",
+              "price": "305,87 TL",
+              "priceWithoutCurrency": "305,87"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1124623821,
+      "brand": "VODENS",
+      "name": "2'li Beyaz Bordo ve Siyah Çizgili %95 Pamuk Esnek Saç Bandı",
+      "categoryName": "Saç Bandı",
+      "categoryId": 1796,
+      "currentPrice": 190.02,
+      "originalPrice": 190.02,
+      "discountedPrice": 190.02,
+      "trendyolPlusPrice": 180.52,
+      "currency": "TL",
+      "rating": null,
+      "reviewsCount": null,
+      "favoriteCount": "335",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/2-li-beyaz-bordo-ve-siyah-cizgili-95-pamuk-esnek-sac-bandi-p-1124623821?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1847/prod/QC_PREP/20260327/18/9e839a0b-47f3-3bc5-93de-dc777ccf7990/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Saç Bandı",
+          "id": 1796
+        },
+        "contentId": 1124623821,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1124623821,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1847/prod/QC_PREP/20260327/18/9e839a0b-47f3-3bc5-93de-dc777ccf7990/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1847/prod/QC_PREP/20260327/18/9e839a0b-47f3-3bc5-93de-dc777ccf7990/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1846/prod/QC_PREP/20260327/18/b2fa0db6-a3d5-3923-965a-0e223fd2774d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1845/prod/QC_PREP/20260327/18/afeda064-4abd-3c75-9dca-40f3ec3c06ff/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1569152476,
+        "listingId": "ed775609241691f2b615e5d1eb628d40",
+        "name": "2'li Beyaz Bordo ve Siyah Çizgili %95 Pamuk Esnek Saç Bandı",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 190.02,
+          "currentText": "190,02",
+          "originalPrice": 190.02,
+          "originalPriceText": "190,02",
+          "discountedPrice": 190.02,
+          "discountedPriceText": "190,02",
+          "currencySymbol": "TL"
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "priority": true,
+            "title": "Çok Al Az Öde",
+            "type": "TAKE_MORE_PAY_LESS"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/2-li-beyaz-bordo-ve-siyah-cizgili-95-pamuk-esnek-sac-bandi-p-1124623821?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": true,
+        "groupId": 821823920,
+        "variantValue": "Tek Ebat",
+        "variantId": "tek-ebat",
+        "isOneSize": true,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "2'li Beyaz Bordo ve Siyah Çizgili %95 Pamuk Esnek Saç Bandı"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "335"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28661072,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          },
+          {
+            "id": 28443282,
+            "shortName": "Çok Al Az Öde",
+            "name": "500 TL'ye 50 TL İndirim",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "190,02 TL",
+          "priceNumerized": 190.02,
+          "priceWithoutCurrency": "190,02",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "190,02 TL",
+          "salePriceWihoutCurrency": "190,02",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "190,02",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "180.52"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "190,02",
+          "newPrice": "175,02",
+          "integerPart": "175,02",
+          "decimalPart": "00",
+          "discountPercentage": 8,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "TAKE_MORE_PAY_LESS",
+            "title": "Çok Al Az Öde",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526420395.svg",
+            "color": "#F27A1A"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "190,02 TL",
+          "salePriceWihoutCurrency": "190,02",
+          "salePriceNumeric": 190.02,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "180.52",
+              "price": "180,52 TL",
+              "priceWithoutCurrency": "180,52"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28661072,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T23:55:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    }
+  ]
+}

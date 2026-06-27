@@ -1,0 +1,2373 @@
+{
+  "metadata": {
+    "categoryKey": "elbise",
+    "merchantId": "703274",
+    "sortValue": "SCORE",
+    "totalCount": 11,
+    "targetTotalCount": 11,
+    "scrapedAt": "2026-06-24T21:12:58.353Z"
+  },
+  "products": [
+    {
+      "id": 937264617,
+      "brand": "VODENS",
+      "name": "Kadın Bordo Askılı midi elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 4.375,
+      "reviewsCount": 112,
+      "favoriteCount": "10K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-bordo-askili-midi-elbise-p-937264617?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3e4b567e-a7d7-3089-8c02-b2d2dafc1b2c/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 937264617,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 937264617,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3e4b567e-a7d7-3089-8c02-b2d2dafc1b2c/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3e4b567e-a7d7-3089-8c02-b2d2dafc1b2c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/13/38b1cbad-06bc-39c7-bf0f-c96fc7bf6c53/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/91d9403d-41a4-33c8-bf8a-018d92586c09/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1326124332,
+        "listingId": "7a3f9b0d42419ad634688d2e64bc7ef9",
+        "name": "Kadın Bordo Askılı midi elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.375,
+          "totalCount": 112
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-bordo-askili-midi-elbise-p-937264617?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 709776729,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Bordo Askılı midi elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "10K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 959068451,
+      "brand": "VODENS",
+      "name": "Kadın Bej Kontrast Cep Detaylı Midi Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 729.9,
+      "originalPrice": 729.9,
+      "discountedPrice": 729.9,
+      "trendyolPlusPrice": 656.91,
+      "currency": "TL",
+      "rating": 3.86,
+      "reviewsCount": 50,
+      "favoriteCount": "6K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-bej-kontrast-cep-detayli-midi-elbise-p-959068451?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/512e8523-a116-30f4-bf7a-aa405e3d23d7/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 959068451,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 959068451,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/512e8523-a116-30f4-bf7a-aa405e3d23d7/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/512e8523-a116-30f4-bf7a-aa405e3d23d7/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/809926c7-6b3e-3e84-82ba-1853a94679ea/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/c9dba558-f696-3e5b-bae0-3537f7b98382/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1357246993,
+        "listingId": "6204131d60a33de93e35354c5243d200",
+        "name": "Kadın Bej Kontrast Cep Detaylı Midi Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 729.9,
+          "currentText": "729,90",
+          "originalPrice": 729.9,
+          "originalPriceText": "729,90",
+          "discountedPrice": 729.9,
+          "discountedPriceText": "729,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.86,
+          "totalCount": 50
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-bej-kontrast-cep-detayli-midi-elbise-p-959068451?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 718256939,
+        "variantValue": "S",
+        "variantId": "s",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Bej Kontrast Cep Detaylı Midi Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "6K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "729,90 TL",
+          "priceNumerized": 729.9,
+          "priceWithoutCurrency": "729,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "729,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "656.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "729,90",
+          "newPrice": "714,90",
+          "integerPart": "714,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "salePriceNumeric": 729.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "656.91",
+              "price": "656,91 TL",
+              "priceWithoutCurrency": "656,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 947741244,
+      "brand": "VODENS",
+      "name": "Kadın Lacivert Kontrast Cep Detaylı Midi Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 729.9,
+      "originalPrice": 729.9,
+      "discountedPrice": 729.9,
+      "trendyolPlusPrice": 656.91,
+      "currency": "TL",
+      "rating": 4.373493975903615,
+      "reviewsCount": 249,
+      "favoriteCount": "12K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-lacivert-kontrast-cep-detayli-midi-elbise-p-947741244?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/d3728e0b-2306-3644-b2be-bb5535632d32/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 947741244,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 947741244,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/d3728e0b-2306-3644-b2be-bb5535632d32/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/d3728e0b-2306-3644-b2be-bb5535632d32/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/cb42e089-0e43-3d22-bfa5-acab1a47740c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/c9dba558-f696-3e5b-bae0-3537f7b98382/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1341906496,
+        "listingId": "63e7af0ab3f1f9c2574fe4287dc07794",
+        "name": "Kadın Lacivert Kontrast Cep Detaylı Midi Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 729.9,
+          "currentText": "729,90",
+          "originalPrice": 729.9,
+          "originalPriceText": "729,90",
+          "discountedPrice": 729.9,
+          "discountedPriceText": "729,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.373493975903615,
+          "totalCount": 249
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-lacivert-kontrast-cep-detayli-midi-elbise-p-947741244?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 718256939,
+        "variantValue": "M",
+        "variantId": "m",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Lacivert Kontrast Cep Detaylı Midi Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "12K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "729,90 TL",
+          "priceNumerized": 729.9,
+          "priceWithoutCurrency": "729,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "729,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "656.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "729,90",
+          "newPrice": "714,90",
+          "integerPart": "714,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "salePriceNumeric": 729.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "656.91",
+              "price": "656,91 TL",
+              "priceWithoutCurrency": "656,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 937264786,
+      "brand": "VODENS",
+      "name": "Kadın Siyah Askılı midi elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 4.325878594249201,
+      "reviewsCount": 313,
+      "favoriteCount": "19K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-siyah-askili-midi-elbise-p-937264786?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3c531522-e4ee-308e-8bc0-819698c213da/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 937264786,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 937264786,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3c531522-e4ee-308e-8bc0-819698c213da/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/3c531522-e4ee-308e-8bc0-819698c213da/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/13/ab2cc1ad-0a59-3739-8d61-b9c5b81a7f31/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/13/3fb1eac7-1d63-36c2-b6f2-10e83e6238b5/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1326124681,
+        "listingId": "ecda3c20d515d85022448509820c00c8",
+        "name": "Kadın Siyah Askılı midi elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.325878594249201,
+          "totalCount": 313
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-siyah-askili-midi-elbise-p-937264786?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 709776729,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Siyah Askılı midi elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "19K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 959068440,
+      "brand": "VODENS",
+      "name": "Kadın Bordo Kontrast Cep Detaylı Midi Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 729.9,
+      "originalPrice": 729.9,
+      "discountedPrice": 729.9,
+      "trendyolPlusPrice": 656.91,
+      "currency": "TL",
+      "rating": 4.310924369747899,
+      "reviewsCount": 119,
+      "favoriteCount": "8K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-bordo-kontrast-cep-detayli-midi-elbise-p-959068440?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251211/23/173345b4-3317-373f-8092-8ebc094416dd/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 959068440,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 959068440,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251211/23/173345b4-3317-373f-8092-8ebc094416dd/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251211/23/173345b4-3317-373f-8092-8ebc094416dd/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/dd140722-623b-3634-a8d2-dae175f8def0/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/c9dba558-f696-3e5b-bae0-3537f7b98382/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1357247409,
+        "listingId": "b83baf153a68a5ccb4927e3e6c56e1e5",
+        "name": "Kadın Bordo Kontrast Cep Detaylı Midi Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 729.9,
+          "currentText": "729,90",
+          "originalPrice": 729.9,
+          "originalPriceText": "729,90",
+          "discountedPrice": 729.9,
+          "discountedPriceText": "729,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.310924369747899,
+          "totalCount": 119
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-bordo-kontrast-cep-detayli-midi-elbise-p-959068440?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 718256939,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Bordo Kontrast Cep Detaylı Midi Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "8K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "729,90 TL",
+          "priceNumerized": 729.9,
+          "priceWithoutCurrency": "729,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "729,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "656.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "729,90",
+          "newPrice": "714,90",
+          "integerPart": "714,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "salePriceNumeric": 729.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "656.91",
+              "price": "656,91 TL",
+              "priceWithoutCurrency": "656,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 951941011,
+      "brand": "VODENS",
+      "name": "Kadın Kahve Askılı midi elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 4.451612903225806,
+      "reviewsCount": 62,
+      "favoriteCount": "5K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-kahve-askili-midi-elbise-p-951941011?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/cee3794a-dd4a-3850-b578-2eae2c253c20/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 951941011,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 951941011,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/cee3794a-dd4a-3850-b578-2eae2c253c20/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/13/cee3794a-dd4a-3850-b578-2eae2c253c20/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/13/69b88ce7-9399-399a-9015-884164f38f87/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/13/9557daed-e408-30c9-a63e-469effc96677/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1347568225,
+        "listingId": "d5d759503b6f4b354d8c05664052d6a1",
+        "name": "Kadın Kahve Askılı midi elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.451612903225806,
+          "totalCount": 62
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-kahve-askili-midi-elbise-p-951941011?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 709776729,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Kahve Askılı midi elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "5K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 947743898,
+      "brand": "VODENS",
+      "name": "Kadın Kahve Kontrast Cep Detaylı Midi Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 729.9,
+      "originalPrice": 729.9,
+      "discountedPrice": 729.9,
+      "trendyolPlusPrice": 656.91,
+      "currency": "TL",
+      "rating": 4.050000000000001,
+      "reviewsCount": 180,
+      "favoriteCount": "18K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-kahve-kontrast-cep-detayli-midi-elbise-p-947743898?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/07c5b32e-647f-3f57-8973-94708d99705d/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 947743898,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 947743898,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/07c5b32e-647f-3f57-8973-94708d99705d/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251211/23/07c5b32e-647f-3f57-8973-94708d99705d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/10764edc-5a6c-3a6d-afb8-fb779d59e951/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/c9dba558-f696-3e5b-bae0-3537f7b98382/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1341910996,
+        "listingId": "f067247d2a277b324a6a983c4c060fe8",
+        "name": "Kadın Kahve Kontrast Cep Detaylı Midi Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 729.9,
+          "currentText": "729,90",
+          "originalPrice": 729.9,
+          "originalPriceText": "729,90",
+          "discountedPrice": 729.9,
+          "discountedPriceText": "729,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.050000000000001,
+          "totalCount": 180
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-kahve-kontrast-cep-detayli-midi-elbise-p-947743898?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 718256939,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Kahve Kontrast Cep Detaylı Midi Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "18K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "729,90 TL",
+          "priceNumerized": 729.9,
+          "priceWithoutCurrency": "729,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "729,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "656.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "729,90",
+          "newPrice": "714,90",
+          "integerPart": "714,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "salePriceNumeric": 729.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "656.91",
+              "price": "656,91 TL",
+              "priceWithoutCurrency": "656,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 947643767,
+      "brand": "VODENS",
+      "name": "Kadın Siyah Kontrast Cep Detaylı Midi Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 729.9,
+      "originalPrice": 729.9,
+      "discountedPrice": 729.9,
+      "trendyolPlusPrice": 656.91,
+      "currency": "TL",
+      "rating": 4.1692307692307695,
+      "reviewsCount": 130,
+      "favoriteCount": "7K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-siyah-kontrast-cep-detayli-midi-elbise-p-947643767?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/cddc5208-66c2-302d-a20c-4c250d52ee51/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 947643767,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 947643767,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/cddc5208-66c2-302d-a20c-4c250d52ee51/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/cddc5208-66c2-302d-a20c-4c250d52ee51/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/f7fbabae-e49e-320b-b33a-8bfec651a188/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251211/23/c9dba558-f696-3e5b-bae0-3537f7b98382/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1341767665,
+        "listingId": "c6549e13de49c1346236c92ee2427d24",
+        "name": "Kadın Siyah Kontrast Cep Detaylı Midi Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 729.9,
+          "currentText": "729,90",
+          "originalPrice": 729.9,
+          "originalPriceText": "729,90",
+          "discountedPrice": 729.9,
+          "discountedPriceText": "729,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.1692307692307695,
+          "totalCount": 130
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-siyah-kontrast-cep-detayli-midi-elbise-p-947643767?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 718256939,
+        "variantValue": "M",
+        "variantId": "m",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Siyah Kontrast Cep Detaylı Midi Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "7K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "729,90 TL",
+          "priceNumerized": 729.9,
+          "priceWithoutCurrency": "729,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "729,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "656.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "729,90",
+          "newPrice": "714,90",
+          "integerPart": "714,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "729,90 TL",
+          "salePriceWihoutCurrency": "729,90",
+          "salePriceNumeric": 729.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "656.91",
+              "price": "656,91 TL",
+              "priceWithoutCurrency": "656,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 901556795,
+      "brand": "VODENS",
+      "name": "Kadın Siyah Mini Balıkçı Yaka Etek Poplin Kloş Üst Esnek Pamuk Viskon Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 329.9,
+      "originalPrice": 329.9,
+      "discountedPrice": 329.9,
+      "trendyolPlusPrice": 296.91,
+      "currency": "TL",
+      "rating": 4.146341463414634,
+      "reviewsCount": 41,
+      "favoriteCount": "4K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-siyah-mini-balikci-yaka-etek-poplin-klos-ust-esnek-pamuk-viskon-elbise-p-901556795?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1646/prod/QC/20250301/10/e9c26344-70e6-3f2b-9c72-f7d57dcc276c/1_org_zoom.jpg",
+      "isFreeCargo": false,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 901556795,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 901556795,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1646/prod/QC/20250301/10/e9c26344-70e6-3f2b-9c72-f7d57dcc276c/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1646/prod/QC/20250301/10/e9c26344-70e6-3f2b-9c72-f7d57dcc276c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1645/prod/QC/20250301/10/02c6a792-9b71-3a64-8f90-8de85c2e9ff9/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1645/prod/QC/20250301/10/0c00f52e-e055-314a-ae09-73057a9295ac/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1254566852,
+        "listingId": "cf2b5029b5b08cc180f8ce1df59be392",
+        "name": "Kadın Siyah Mini Balıkçı Yaka Etek Poplin Kloş Üst Esnek Pamuk Viskon Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 329.9,
+          "currentText": "329,90",
+          "originalPrice": 329.9,
+          "originalPriceText": "329,90",
+          "discountedPrice": 329.9,
+          "discountedPriceText": "329,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.146341463414634,
+          "totalCount": 41
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Birlikte Al Kazan",
+            "type": "CROSS_PROMOTION"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-siyah-mini-balikci-yaka-etek-poplin-klos-ust-esnek-pamuk-viskon-elbise-p-901556795?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 689759083,
+        "variantValue": "S",
+        "variantId": "s",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Siyah Mini Balıkçı Yaka Etek Poplin Kloş Üst Esnek Pamuk Viskon Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "4K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": false,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "329,90 TL",
+          "priceNumerized": 329.9,
+          "priceWithoutCurrency": "329,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "329,90 TL",
+          "salePriceWihoutCurrency": "329,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "329,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "296.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "329,90",
+          "newPrice": "314,90",
+          "integerPart": "314,90",
+          "decimalPart": "00",
+          "discountPercentage": 5,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "%80 Pamuk %15 Polyester %5 Elestan Etek Poplin",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "329,90 TL",
+          "salePriceWihoutCurrency": "329,90",
+          "salePriceNumeric": 329.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "296.91",
+              "price": "296,91 TL",
+              "priceWithoutCurrency": "296,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 930374245,
+      "brand": "VODENS",
+      "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Elastan Şık Lacivert Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 749.9,
+      "originalPrice": 749.9,
+      "discountedPrice": 749.9,
+      "trendyolPlusPrice": 674.91,
+      "currency": "TL",
+      "rating": 4.074074074074074,
+      "reviewsCount": 54,
+      "favoriteCount": "5K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/pani-kadin-maxi-boy-etek-kismi-dokuma-poplin-klos-ust-kismi-esnek-viskon-elastan-sik-lacivert-elbise-p-930374245?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1668/prod/QC/20250428/12/621df731-8bac-34b5-b4f2-34870c901e8d/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 930374245,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 930374245,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1668/prod/QC/20250428/12/621df731-8bac-34b5-b4f2-34870c901e8d/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1668/prod/QC/20250428/12/621df731-8bac-34b5-b4f2-34870c901e8d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1670/prod/QC/20250428/12/aa30c155-3bd8-3db5-8641-529615a86c47/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1669/prod/QC/20250428/12/f5837116-64b1-3c42-bb9d-8406c337e956/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1669/prod/QC/20250428/12/127e31c0-bf55-3a5e-8aaf-aa1234787ce1/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1315954383,
+        "listingId": "fc4c5aa82dea7f23a3bcac01867be992",
+        "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Elastan Şık Lacivert Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 749.9,
+          "currentText": "749,90",
+          "originalPrice": 749.9,
+          "originalPriceText": "749,90",
+          "discountedPrice": 749.9,
+          "discountedPriceText": "749,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.074074074074074,
+          "totalCount": 54
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/pani-kadin-maxi-boy-etek-kismi-dokuma-poplin-klos-ust-kismi-esnek-viskon-elastan-sik-lacivert-elbise-p-930374245?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 685961971,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Elastan Şık Lacivert Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "5K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "749,90 TL",
+          "priceNumerized": 749.9,
+          "priceWithoutCurrency": "749,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "749,90 TL",
+          "salePriceWihoutCurrency": "749,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "749,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "674.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "749,90",
+          "newPrice": "734,90",
+          "integerPart": "734,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "749,90 TL",
+          "salePriceWihoutCurrency": "749,90",
+          "salePriceNumeric": 749.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "674.91",
+              "price": "674,91 TL",
+              "priceWithoutCurrency": "674,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 968868215,
+      "brand": "VODENS",
+      "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Kahve Elbise",
+      "categoryName": "Elbise",
+      "categoryId": 1182,
+      "currentPrice": 749.9,
+      "originalPrice": 749.9,
+      "discountedPrice": 749.9,
+      "trendyolPlusPrice": 674.91,
+      "currency": "TL",
+      "rating": 4.081081081081081,
+      "reviewsCount": 37,
+      "favoriteCount": "5K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/pani-kadin-maxi-boy-etek-kismi-dokuma-poplin-klos-ust-kismi-esnek-viskon-kahve-elbise-p-968868215?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/3bcb8a95-aaa8-3bde-88d0-5aae3ffa5295/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Elbise",
+          "id": 1182
+        },
+        "contentId": 968868215,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 968868215,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/3bcb8a95-aaa8-3bde-88d0-5aae3ffa5295/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/3bcb8a95-aaa8-3bde-88d0-5aae3ffa5295/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/8d068130-de8a-3403-8c8e-979680f1ee87/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/d31fffff-fe38-31e7-8cee-90d8a6d4ef33/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1723/prod/QC_PREP/20250809/08/9105c36d-8cbd-3dd5-a315-4513adcc321f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1722/prod/QC_PREP/20250809/08/b2f9ebd9-dbeb-3bdd-97dc-528f25a79f32/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1370134737,
+        "listingId": "d0bd82523acfe879d4ac7a5b0a4af175",
+        "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Kahve Elbise",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 749.9,
+          "currentText": "749,90",
+          "originalPrice": 749.9,
+          "originalPriceText": "749,90",
+          "discountedPrice": 749.9,
+          "discountedPriceText": "749,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.081081081081081,
+          "totalCount": 37
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/pani-kadin-maxi-boy-etek-kismi-dokuma-poplin-klos-ust-kismi-esnek-viskon-kahve-elbise-p-968868215?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 685961971,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Pani Kadın Maxi Boy Etek Kısmı Dokuma Poplin Kloş Üst Kısmı Esnek Viskon Kahve Elbise"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "5K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "749,90 TL",
+          "priceNumerized": 749.9,
+          "priceWithoutCurrency": "749,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "749,90 TL",
+          "salePriceWihoutCurrency": "749,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "749,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "674.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "749,90",
+          "newPrice": "734,90",
+          "integerPart": "734,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "productCardAttributes": {
+          "attributes": [
+            {
+              "attributeId": 987,
+              "attributeName": "Materyal Bileşeni",
+              "attributeValueName": "100% Pamuk",
+              "isEnergyClass": false
+            }
+          ],
+          "isEnergyClass": false
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "749,90 TL",
+          "salePriceWihoutCurrency": "749,90",
+          "salePriceNumeric": 749.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "674.91",
+              "price": "674,91 TL",
+              "priceWithoutCurrency": "674,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    }
+  ]
+}

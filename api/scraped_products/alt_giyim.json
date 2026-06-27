@@ -1,0 +1,3948 @@
+{
+  "metadata": {
+    "categoryKey": "alt_giyim",
+    "merchantId": "703274",
+    "sortValue": "SCORE",
+    "totalCount": 19,
+    "targetTotalCount": 19,
+    "scrapedAt": "2026-06-24T21:10:57.216Z"
+  },
+  "products": [
+    {
+      "id": 943491833,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Bol Kesim Siyah Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 699.9,
+      "originalPrice": 699.9,
+      "discountedPrice": 699.9,
+      "trendyolPlusPrice": 629.91,
+      "currency": "TL",
+      "rating": 4.143434343434343,
+      "reviewsCount": 495,
+      "favoriteCount": "38K",
+      "orderCount": "200+",
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-bol-kesim-siyah-pantolon-p-943491833?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/6c524268-b1b8-36ee-b8e0-9111c3194258/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 943491833,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 943491833,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/6c524268-b1b8-36ee-b8e0-9111c3194258/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/6c524268-b1b8-36ee-b8e0-9111c3194258/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/7b0fbbb8-ef10-30b6-9472-c5cca42ac5f4/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/dff588b0-2466-32b9-b409-28f357aad838/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/6fb808f7-b8ad-312d-a23c-4f5d3f995640/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/e8b0df9e-abe8-3d84-84af-ef7fac63ac28/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1335645918,
+        "listingId": "4485184ce7d5ee9ff652f9013625e751",
+        "name": "Keten Karışımlı Bol Kesim Siyah Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 699.9,
+          "currentText": "699,90",
+          "originalPrice": 699.9,
+          "originalPriceText": "699,90",
+          "discountedPrice": 699.9,
+          "discountedPriceText": "699,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.143434343434343,
+          "totalCount": 495
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-bol-kesim-siyah-pantolon-p-943491833?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Bol Kesim Siyah Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "38K"
+          },
+          {
+            "key": "orderCount",
+            "value": "200+"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "699,90 TL",
+          "priceNumerized": 699.9,
+          "priceWithoutCurrency": "699,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "699,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "629.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "699,90",
+          "newPrice": "684,90",
+          "integerPart": "684,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "salePriceNumeric": 699.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "629.91",
+              "price": "629,91 TL",
+              "priceWithoutCurrency": "629,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1154502055,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Bol Kesim Açık Ekru Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 769.9,
+      "originalPrice": 769.9,
+      "discountedPrice": 769.9,
+      "trendyolPlusPrice": 692.91,
+      "currency": "TL",
+      "rating": 3.4,
+      "reviewsCount": 35,
+      "favoriteCount": "8K",
+      "orderCount": "200+",
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-bol-kesim-acik-ekru-pantolon-p-1154502055?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1910/prod/QC_PREP/20260608/22/f8ef8159-f7f2-34d4-bf85-fd7d00121024/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1154502055,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1154502055,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1910/prod/QC_PREP/20260608/22/f8ef8159-f7f2-34d4-bf85-fd7d00121024/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1910/prod/QC_PREP/20260608/22/f8ef8159-f7f2-34d4-bf85-fd7d00121024/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1915/prod/QC_PREP/20260608/22/a376a4e5-439a-33eb-bf83-1994761834d3/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1903/prod/QC_PREP/20260608/22/8e03f12e-27d3-3952-bcad-d42575f1da0d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1918/prod/QC_PREP/20260608/22/45423528-1c12-3288-84cd-5aa8f4c8e06c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/e8b0df9e-abe8-3d84-84af-ef7fac63ac28/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1614870087,
+        "listingId": "9f23add50a4cff0fd5e714d49e0b53ca",
+        "name": "Keten Karışımlı Bol Kesim Açık Ekru Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 769.9,
+          "currentText": "769,90",
+          "originalPrice": 769.9,
+          "originalPriceText": "769,90",
+          "discountedPrice": 769.9,
+          "discountedPriceText": "769,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.4,
+          "totalCount": 35
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-bol-kesim-acik-ekru-pantolon-p-1154502055?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Bol Kesim Açık Ekru Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "8K"
+          },
+          {
+            "key": "orderCount",
+            "value": "200+"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "769,90 TL",
+          "priceNumerized": 769.9,
+          "priceWithoutCurrency": "769,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "769,90 TL",
+          "salePriceWihoutCurrency": "769,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "769,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "692.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "769,90",
+          "newPrice": "754,90",
+          "integerPart": "754,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "769,90 TL",
+          "salePriceWihoutCurrency": "769,90",
+          "salePriceNumeric": 769.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "692.91",
+              "price": "692,91 TL",
+              "priceWithoutCurrency": "692,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1144283844,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Koyu Kahve Bol Kesim Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 699.9,
+      "originalPrice": 699.9,
+      "discountedPrice": 699.9,
+      "trendyolPlusPrice": 629.91,
+      "currency": "TL",
+      "rating": 4.169491525423729,
+      "reviewsCount": 59,
+      "favoriteCount": "15K",
+      "orderCount": "100+",
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-koyu-kahve-bol-kesim-pantolon-p-1144283844?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1904/prod/QC_PREP/20260512/11/9e0bf5c1-1bd0-349f-91cd-d7b751ae4ac8/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1144283844,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1144283844,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1904/prod/QC_PREP/20260512/11/9e0bf5c1-1bd0-349f-91cd-d7b751ae4ac8/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1904/prod/QC_PREP/20260512/11/9e0bf5c1-1bd0-349f-91cd-d7b751ae4ac8/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1908/prod/QC_PREP/20260512/11/a3e7e9b0-bb54-3be5-acb1-0c88ec0e0c90/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1902/prod/QC_PREP/20260512/11/4fbf6acb-757c-3fae-bc94-524855817472/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/e8b0df9e-abe8-3d84-84af-ef7fac63ac28/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1599678067,
+        "listingId": "08800e249296c4dc34543f52612dceda",
+        "name": "Keten Karışımlı Koyu Kahve Bol Kesim Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 699.9,
+          "currentText": "699,90",
+          "originalPrice": 699.9,
+          "originalPriceText": "699,90",
+          "discountedPrice": 699.9,
+          "discountedPriceText": "699,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.169491525423729,
+          "totalCount": 59
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-koyu-kahve-bol-kesim-pantolon-p-1144283844?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Koyu Kahve Bol Kesim Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "15K"
+          },
+          {
+            "key": "orderCount",
+            "value": "100+"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "699,90 TL",
+          "priceNumerized": 699.9,
+          "priceWithoutCurrency": "699,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "699,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "629.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "699,90",
+          "newPrice": "684,90",
+          "integerPart": "684,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "salePriceNumeric": 699.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "629.91",
+              "price": "629,91 TL",
+              "priceWithoutCurrency": "629,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 927385245,
+      "brand": "VODENS",
+      "name": "Kadın Koyu Bordo İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 629.9,
+      "originalPrice": 629.9,
+      "discountedPrice": 629.9,
+      "trendyolPlusPrice": 566.91,
+      "currency": "TL",
+      "rating": 4.0274725274725265,
+      "reviewsCount": 182,
+      "favoriteCount": "13K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-koyu-bordo-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-927385245?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/78b3ea9a-66f6-3bb2-9830-fa347465aadf/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 927385245,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 927385245,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/78b3ea9a-66f6-3bb2-9830-fa347465aadf/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/78b3ea9a-66f6-3bb2-9830-fa347465aadf/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/202e0f08-e4c4-31da-bafa-e36ab5862877/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/d297b07a-3728-360b-a4b5-a0a50d06c012/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1310980155,
+        "listingId": "e0eb7d25aa3f17e0b0acfd1257790ea2",
+        "name": "Kadın Koyu Bordo İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 629.9,
+          "currentText": "629,90",
+          "originalPrice": 629.9,
+          "originalPriceText": "629,90",
+          "discountedPrice": 629.9,
+          "discountedPriceText": "629,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.0274725274725265,
+          "totalCount": 182
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-koyu-bordo-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-927385245?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 685527619,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Koyu Bordo İspanyol Paça Jarse Ultra Soft Pantolon Flared"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "13K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "629,90 TL",
+          "priceNumerized": 629.9,
+          "priceWithoutCurrency": "629,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "629,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "566.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "629,90",
+          "newPrice": "614,90",
+          "integerPart": "614,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "salePriceNumeric": 629.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "566.91",
+              "price": "566,91 TL",
+              "priceWithoutCurrency": "566,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 943491835,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Bol Kesim Lacivert Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 699.9,
+      "originalPrice": 699.9,
+      "discountedPrice": 699.9,
+      "trendyolPlusPrice": 629.91,
+      "currency": "TL",
+      "rating": 4.2287234042553195,
+      "reviewsCount": 188,
+      "favoriteCount": "20K",
+      "orderCount": "100+",
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-bol-kesim-lacivert-pantolon-p-943491835?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/f3ba9572-79a3-3e68-9a9f-99a95dda0d8c/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 943491835,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 943491835,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/f3ba9572-79a3-3e68-9a9f-99a95dda0d8c/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1859/prod/QC_ENRICHMENT/20260423/13/f3ba9572-79a3-3e68-9a9f-99a95dda0d8c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1857/prod/QC_ENRICHMENT/20260423/13/6fb0b72a-4048-37ca-a087-0b6d806693ab/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/15d82de8-cb8e-39cd-944f-709fda06bf72/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/e8b0df9e-abe8-3d84-84af-ef7fac63ac28/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1335645927,
+        "listingId": "d76429f02d5677e56f9680c3488724ab",
+        "name": "Keten Karışımlı Bol Kesim Lacivert Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 699.9,
+          "currentText": "699,90",
+          "originalPrice": 699.9,
+          "originalPriceText": "699,90",
+          "discountedPrice": 699.9,
+          "discountedPriceText": "699,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.2287234042553195,
+          "totalCount": 188
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-bol-kesim-lacivert-pantolon-p-943491835?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Bol Kesim Lacivert Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "20K"
+          },
+          {
+            "key": "orderCount",
+            "value": "100+"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "699,90 TL",
+          "priceNumerized": 699.9,
+          "priceWithoutCurrency": "699,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "699,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "629.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "699,90",
+          "newPrice": "684,90",
+          "integerPart": "684,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "salePriceNumeric": 699.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "629.91",
+              "price": "629,91 TL",
+              "priceWithoutCurrency": "629,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1144283839,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Koyu Bordo Bol Kesim Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 699.9,
+      "originalPrice": 699.9,
+      "discountedPrice": 699.9,
+      "trendyolPlusPrice": 629.91,
+      "currency": "TL",
+      "rating": 4.615384615384615,
+      "reviewsCount": 13,
+      "favoriteCount": "5K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-koyu-bordo-bol-kesim-pantolon-p-1144283839?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1900/prod/QC_PREP/20260512/11/74f416fb-debf-3560-8e32-0372cae7cbe7/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1144283839,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1144283839,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1900/prod/QC_PREP/20260512/11/74f416fb-debf-3560-8e32-0372cae7cbe7/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1900/prod/QC_PREP/20260512/11/74f416fb-debf-3560-8e32-0372cae7cbe7/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260512/11/745d94d8-49b3-3125-8a1f-6af9fb738837/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1926/prod/QC_PREP/20260512/11/61e5df35-6d5b-32f9-9521-585ac3d4a753/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1858/prod/QC_ENRICHMENT/20260423/13/e8b0df9e-abe8-3d84-84af-ef7fac63ac28/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1599678478,
+        "listingId": "bfb70e1cd46e65c39274a251aa8a741b",
+        "name": "Keten Karışımlı Koyu Bordo Bol Kesim Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 699.9,
+          "currentText": "699,90",
+          "originalPrice": 699.9,
+          "originalPriceText": "699,90",
+          "discountedPrice": 699.9,
+          "discountedPriceText": "699,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.615384615384615,
+          "totalCount": 13
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-koyu-bordo-bol-kesim-pantolon-p-1144283839?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Koyu Bordo Bol Kesim Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "5K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "699,90 TL",
+          "priceNumerized": 699.9,
+          "priceWithoutCurrency": "699,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "699,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "629.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "699,90",
+          "newPrice": "684,90",
+          "integerPart": "684,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "salePriceNumeric": 699.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "629.91",
+              "price": "629,91 TL",
+              "priceWithoutCurrency": "629,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1081613020,
+      "brand": "VODENS",
+      "name": "Kahve Yumuşak Dokulu Palazzo Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 629.9,
+      "originalPrice": 629.9,
+      "discountedPrice": 629.9,
+      "trendyolPlusPrice": 566.91,
+      "currency": "TL",
+      "rating": 4.611111111111111,
+      "reviewsCount": 36,
+      "favoriteCount": "8K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kahve-yumusak-dokulu-palazzo-pantolon-p-1081613020?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1808/prod/QC_PREP/20260108/11/d0e318aa-c43b-3eae-8843-ada08c25b840/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1081613020,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1081613020,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1808/prod/QC_PREP/20260108/11/d0e318aa-c43b-3eae-8843-ada08c25b840/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1808/prod/QC_PREP/20260108/11/d0e318aa-c43b-3eae-8843-ada08c25b840/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1807/prod/QC_PREP/20260108/11/b1c619a7-beab-39e8-a76c-535f8ab83c9e/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1807/prod/QC_PREP/20260108/11/cb135405-b754-308a-bb8f-1845f4481fe4/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1808/prod/QC_PREP/20260108/11/92f415ed-8ded-39a6-b1a1-5735fe7ed1f9/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1494654404,
+        "listingId": "1e5c5f340eb07b3c28e0e85383d5058c",
+        "name": "Kahve Yumuşak Dokulu Palazzo Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 629.9,
+          "currentText": "629,90",
+          "originalPrice": 629.9,
+          "originalPriceText": "629,90",
+          "discountedPrice": 629.9,
+          "discountedPriceText": "629,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.611111111111111,
+          "totalCount": 36
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kahve-yumusak-dokulu-palazzo-pantolon-p-1081613020?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821477465,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kahve Yumuşak Dokulu Palazzo Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "8K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "629,90 TL",
+          "priceNumerized": 629.9,
+          "priceWithoutCurrency": "629,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "629,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "566.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "629,90",
+          "newPrice": "614,90",
+          "integerPart": "614,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "salePriceNumeric": 629.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "566.91",
+              "price": "566,91 TL",
+              "priceWithoutCurrency": "566,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1160124217,
+      "brand": "VODENS",
+      "name": "Beyaz Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+      "categoryName": "Etek",
+      "categoryId": 526,
+      "currentPrice": 669.9,
+      "originalPrice": 669.9,
+      "discountedPrice": 669.9,
+      "trendyolPlusPrice": 602.91,
+      "currency": "TL",
+      "rating": null,
+      "reviewsCount": null,
+      "favoriteCount": null,
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/beyaz-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160124217?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260624/14/7f1f4f00-f3a2-3b8b-8eea-c88f6f05bed2/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Etek",
+          "id": 526
+        },
+        "contentId": 1160124217,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1160124217,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260624/14/7f1f4f00-f3a2-3b8b-8eea-c88f6f05bed2/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1922/prod/QC_PREP/20260624/14/7f1f4f00-f3a2-3b8b-8eea-c88f6f05bed2/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1912/prod/QC_PREP/20260624/14/44df015a-184b-3a2c-be23-fb3025ca70bf/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1914/prod/QC_PREP/20260624/14/43dbb480-2d2c-35a5-b7b1-179c592137ef/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1905/prod/QC_PREP/20260624/14/3548b232-d8fb-37a5-8a7b-28fc7cd160d6/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1623361969,
+        "listingId": "1abac2a846a6f0e2e7efc43f1f9edaa9",
+        "name": "Beyaz Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 669.9,
+          "currentText": "669,90",
+          "originalPrice": 669.9,
+          "originalPriceText": "669,90",
+          "discountedPrice": 669.9,
+          "discountedPriceText": "669,90",
+          "currencySymbol": "TL"
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/beyaz-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160124217?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": true,
+        "groupId": 889880917,
+        "variantValue": "S",
+        "variantId": "s",
+        "isOneSize": false,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Beyaz Vual Kumaş Crush Kırışık Uzun Astarlı Etek"
+        },
+        "socialProof": [],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "669,90 TL",
+          "priceNumerized": 669.9,
+          "priceWithoutCurrency": "669,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "669,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "602.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "669,90",
+          "newPrice": "654,90",
+          "integerPart": "654,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "salePriceNumeric": 669.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "602.91",
+              "price": "602,91 TL",
+              "priceWithoutCurrency": "602,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 943491837,
+      "brand": "VODENS",
+      "name": "Keten Karışımlı Bol Kesim Haki Yeşil Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 699.9,
+      "originalPrice": 699.9,
+      "discountedPrice": 699.9,
+      "trendyolPlusPrice": 629.91,
+      "currency": "TL",
+      "rating": 4.071428571428572,
+      "reviewsCount": 56,
+      "favoriteCount": "7K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/keten-karisimli-bol-kesim-haki-yesil-pantolon-p-943491837?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251212/10/fc8fdc44-d2b2-398d-b73f-8b41bdf8892d/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 943491837,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 943491837,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251212/10/fc8fdc44-d2b2-398d-b73f-8b41bdf8892d/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251212/10/fc8fdc44-d2b2-398d-b73f-8b41bdf8892d/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1335645936,
+        "listingId": "0efa349d4b32f352a36686406f533651",
+        "name": "Keten Karışımlı Bol Kesim Haki Yeşil Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 699.9,
+          "currentText": "699,90",
+          "originalPrice": 699.9,
+          "originalPriceText": "699,90",
+          "discountedPrice": 699.9,
+          "discountedPriceText": "699,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.071428571428572,
+          "totalCount": 56
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/keten-karisimli-bol-kesim-haki-yesil-pantolon-p-943491837?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 710740585,
+        "variantValue": "M",
+        "variantId": "m",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Keten Karışımlı Bol Kesim Haki Yeşil Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "7K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "699,90 TL",
+          "priceNumerized": 699.9,
+          "priceWithoutCurrency": "699,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "699,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "629.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "699,90",
+          "newPrice": "684,90",
+          "integerPart": "684,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "699,90 TL",
+          "salePriceWihoutCurrency": "699,90",
+          "salePriceNumeric": 699.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "629.91",
+              "price": "629,91 TL",
+              "priceWithoutCurrency": "629,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 933856858,
+      "brand": "VODENS",
+      "name": "Kadın Lacivert Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut",
+      "categoryName": "Tayt",
+      "categoryId": 531,
+      "currentPrice": 399.9,
+      "originalPrice": 399.9,
+      "discountedPrice": 399.9,
+      "trendyolPlusPrice": 359.91,
+      "currency": "TL",
+      "rating": 3.5,
+      "reviewsCount": 6,
+      "favoriteCount": "2K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-lacivert-yuksek-bel-toparlayici-cift-cepli-ispanyol-paca-tayt-bootcut-p-933856858?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1674/prod/QC/20250508/16/e4505bd7-bbda-30a8-9c73-03179563fc7e/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Tayt",
+          "id": 531
+        },
+        "contentId": 933856858,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 933856858,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1674/prod/QC/20250508/16/e4505bd7-bbda-30a8-9c73-03179563fc7e/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1674/prod/QC/20250508/16/e4505bd7-bbda-30a8-9c73-03179563fc7e/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1674/prod/QC/20250508/16/f3ea7988-aec6-3cde-b5bb-ef1076c5bec7/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250508/16/21ec0042-eef7-3ac3-8b7e-511001b422bf/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1321023958,
+        "listingId": "783de902d74df14b11403a6bc4205dd1",
+        "name": "Kadın Lacivert Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 399.9,
+          "currentText": "399,90",
+          "originalPrice": 399.9,
+          "originalPriceText": "399,90",
+          "discountedPrice": 399.9,
+          "discountedPriceText": "399,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.5,
+          "totalCount": 6
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-lacivert-yuksek-bel-toparlayici-cift-cepli-ispanyol-paca-tayt-bootcut-p-933856858?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 707059961,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Lacivert Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "2K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "399,90 TL",
+          "priceNumerized": 399.9,
+          "priceWithoutCurrency": "399,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "399,90 TL",
+          "salePriceWihoutCurrency": "399,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "399,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "359.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "399,90",
+          "newPrice": "384,90",
+          "integerPart": "384,90",
+          "decimalPart": "00",
+          "discountPercentage": 4,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "399,90 TL",
+          "salePriceWihoutCurrency": "399,90",
+          "salePriceNumeric": 399.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "359.91",
+              "price": "359,91 TL",
+              "priceWithoutCurrency": "359,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1160123606,
+      "brand": "VODENS",
+      "name": "Ekru Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+      "categoryName": "Etek",
+      "categoryId": 526,
+      "currentPrice": 669.9,
+      "originalPrice": 669.9,
+      "discountedPrice": 669.9,
+      "trendyolPlusPrice": 602.91,
+      "currency": "TL",
+      "rating": null,
+      "reviewsCount": null,
+      "favoriteCount": null,
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/ekru-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160123606?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1911/prod/QC_PREP/20260624/14/c9daebb4-ce22-3e12-aaf3-a7a224f0005d/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": true,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Etek",
+          "id": 526
+        },
+        "contentId": 1160123606,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1160123606,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1911/prod/QC_PREP/20260624/14/c9daebb4-ce22-3e12-aaf3-a7a224f0005d/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1911/prod/QC_PREP/20260624/14/c9daebb4-ce22-3e12-aaf3-a7a224f0005d/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1926/prod/QC_PREP/20260624/14/3c15835f-da4e-331e-846a-9f24acf05cea/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1905/prod/QC_PREP/20260624/14/3548b232-d8fb-37a5-8a7b-28fc7cd160d6/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1623361288,
+        "listingId": "076be01346efded3a4051a9c76230f71",
+        "name": "Ekru Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 669.9,
+          "currentText": "669,90",
+          "originalPrice": 669.9,
+          "originalPriceText": "669,90",
+          "discountedPrice": 669.9,
+          "discountedPriceText": "669,90",
+          "currencySymbol": "TL"
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/ekru-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160123606?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": true,
+        "groupId": 889880917,
+        "variantValue": "S",
+        "variantId": "s",
+        "isOneSize": false,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Ekru Vual Kumaş Crush Kırışık Uzun Astarlı Etek"
+        },
+        "socialProof": [],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "669,90 TL",
+          "priceNumerized": 669.9,
+          "priceWithoutCurrency": "669,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "669,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "602.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "669,90",
+          "newPrice": "654,90",
+          "integerPart": "654,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "salePriceNumeric": 669.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "602.91",
+              "price": "602,91 TL",
+              "priceWithoutCurrency": "602,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": true,
+        "sameDayShipping": false,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 983122764,
+      "brand": "VODENS",
+      "name": "Kadın Kahve İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 629.9,
+      "originalPrice": 629.9,
+      "discountedPrice": 629.9,
+      "trendyolPlusPrice": 566.91,
+      "currency": "TL",
+      "rating": 3.6835443037974684,
+      "reviewsCount": 158,
+      "favoriteCount": "11K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-kahve-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-983122764?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/e41694bf-fed4-3d6d-802e-efd3b50bfab7/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 983122764,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 983122764,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/e41694bf-fed4-3d6d-802e-efd3b50bfab7/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/e41694bf-fed4-3d6d-802e-efd3b50bfab7/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1799/prod/QC_ENRICHMENT/20251213/12/c45d20e1-9199-3fbc-b12b-36f541c92ae7/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251213/12/8cf2750a-d5ed-34ff-bcb4-8155da8a85c8/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1389698984,
+        "listingId": "638a7633b936b8c78f926bc27ca7897b",
+        "name": "Kadın Kahve İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 629.9,
+          "currentText": "629,90",
+          "originalPrice": 629.9,
+          "originalPriceText": "629,90",
+          "discountedPrice": 629.9,
+          "discountedPriceText": "629,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.6835443037974684,
+          "totalCount": 158
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-kahve-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-983122764?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 685527619,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Kahve İspanyol Paça Jarse Ultra Soft Pantolon Flared"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "11K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "629,90 TL",
+          "priceNumerized": 629.9,
+          "priceWithoutCurrency": "629,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "629,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "566.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "629,90",
+          "newPrice": "614,90",
+          "integerPart": "614,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "salePriceNumeric": 629.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "566.91",
+              "price": "566,91 TL",
+              "priceWithoutCurrency": "566,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 896304637,
+      "brand": "VODENS",
+      "name": "Kadın Siyah Melanj İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 629.9,
+      "originalPrice": 629.9,
+      "discountedPrice": 629.9,
+      "trendyolPlusPrice": 566.91,
+      "currency": "TL",
+      "rating": 3.777262180974478,
+      "reviewsCount": 431,
+      "favoriteCount": "17K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-siyah-melanj-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-896304637?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251213/12/ef7a1511-9f5e-3c5b-9722-5fee3c18d021/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 896304637,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 896304637,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251213/12/ef7a1511-9f5e-3c5b-9722-5fee3c18d021/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251213/12/ef7a1511-9f5e-3c5b-9722-5fee3c18d021/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1797/prod/QC_ENRICHMENT/20251213/12/f270e49e-13af-3136-b528-d86b13065d9f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1798/prod/QC_ENRICHMENT/20251213/12/52f1bd91-c50c-3885-ab07-68e2b5a1d623/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1245694778,
+        "listingId": "3c0c06a05530e9e5c63d5f1d84452d15",
+        "name": "Kadın Siyah Melanj İspanyol Paça Jarse Ultra Soft Pantolon Flared",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 629.9,
+          "currentText": "629,90",
+          "originalPrice": 629.9,
+          "originalPriceText": "629,90",
+          "discountedPrice": 629.9,
+          "discountedPriceText": "629,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.777262180974478,
+          "totalCount": 431
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-siyah-melanj-ispanyol-paca-jarse-ultra-soft-pantolon-flared-p-896304637?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 685527619,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Siyah Melanj İspanyol Paça Jarse Ultra Soft Pantolon Flared"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "17K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "629,90 TL",
+          "priceNumerized": 629.9,
+          "priceWithoutCurrency": "629,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "629,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "566.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "629,90",
+          "newPrice": "614,90",
+          "integerPart": "614,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "PICKED_BY_INFLUENCER",
+          "title": "Fenomen Seçimi",
+          "color": "linear-gradient(90deg, #FF9137 0%, #FF69FF 100%)"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "salePriceNumeric": 629.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "566.91",
+              "price": "566,91 TL",
+              "priceWithoutCurrency": "566,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1160124166,
+      "brand": "VODENS",
+      "name": "Siyah Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+      "categoryName": "Etek",
+      "categoryId": 526,
+      "currentPrice": 669.9,
+      "originalPrice": 669.9,
+      "discountedPrice": 669.9,
+      "trendyolPlusPrice": 602.91,
+      "currency": "TL",
+      "rating": null,
+      "reviewsCount": null,
+      "favoriteCount": null,
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/siyah-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160124166?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1935/prod/QC_PREP/20260624/14/1a04b9d6-89b9-334e-a05e-a6bc7770fc7e/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": true,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Etek",
+          "id": 526
+        },
+        "contentId": 1160124166,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1160124166,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1935/prod/QC_PREP/20260624/14/1a04b9d6-89b9-334e-a05e-a6bc7770fc7e/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1935/prod/QC_PREP/20260624/14/1a04b9d6-89b9-334e-a05e-a6bc7770fc7e/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1933/prod/QC_PREP/20260624/14/3b7461ae-9307-39e4-a061-0b2e8b4eb75c/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1905/prod/QC_PREP/20260624/14/3548b232-d8fb-37a5-8a7b-28fc7cd160d6/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1623361912,
+        "listingId": "1675442b3e516561e6fc0228027b7588",
+        "name": "Siyah Vual Kumaş Crush Kırışık Uzun Astarlı Etek",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 669.9,
+          "currentText": "669,90",
+          "originalPrice": 669.9,
+          "originalPriceText": "669,90",
+          "discountedPrice": 669.9,
+          "discountedPriceText": "669,90",
+          "currencySymbol": "TL"
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/siyah-vual-kumas-crush-kirisik-uzun-astarli-etek-p-1160124166?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": true,
+        "groupId": 889880917,
+        "variantValue": "S",
+        "variantId": "s",
+        "isOneSize": false,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Siyah Vual Kumaş Crush Kırışık Uzun Astarlı Etek"
+        },
+        "socialProof": [],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "669,90 TL",
+          "priceNumerized": 669.9,
+          "priceWithoutCurrency": "669,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "669,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "602.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "669,90",
+          "newPrice": "654,90",
+          "integerPart": "654,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "669,90 TL",
+          "salePriceWihoutCurrency": "669,90",
+          "salePriceNumeric": 669.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "602.91",
+              "price": "602,91 TL",
+              "priceWithoutCurrency": "602,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": true,
+        "sameDayShipping": false,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1081613081,
+      "brand": "VODENS",
+      "name": "Haki Yumuşak Dokulu Palazzo Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 629.9,
+      "originalPrice": 629.9,
+      "discountedPrice": 629.9,
+      "trendyolPlusPrice": 566.91,
+      "currency": "TL",
+      "rating": 4.4,
+      "reviewsCount": 5,
+      "favoriteCount": "1K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/haki-yumusak-dokulu-palazzo-pantolon-p-1081613081?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1806/prod/QC_PREP/20260108/11/a428cda2-c67f-37f9-90f0-2f0fb592cf4e/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1081613081,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1081613081,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1806/prod/QC_PREP/20260108/11/a428cda2-c67f-37f9-90f0-2f0fb592cf4e/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1806/prod/QC_PREP/20260108/11/a428cda2-c67f-37f9-90f0-2f0fb592cf4e/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1806/prod/QC_PREP/20260108/11/687e8ad6-b477-358b-bddc-2c7a1f65fc54/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1807/prod/QC_PREP/20260108/11/ae5ccd52-30b7-3e6e-b56d-662ad746c38a/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1808/prod/QC_PREP/20260108/11/92f415ed-8ded-39a6-b1a1-5735fe7ed1f9/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1494652465,
+        "listingId": "eae76fb827302b7c9ec73f210b91acdf",
+        "name": "Haki Yumuşak Dokulu Palazzo Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 629.9,
+          "currentText": "629,90",
+          "originalPrice": 629.9,
+          "originalPriceText": "629,90",
+          "discountedPrice": 629.9,
+          "discountedPriceText": "629,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4.4,
+          "totalCount": 5
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/haki-yumusak-dokulu-palazzo-pantolon-p-1081613081?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 821477465,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Haki Yumuşak Dokulu Palazzo Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "1K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "629,90 TL",
+          "priceNumerized": 629.9,
+          "priceWithoutCurrency": "629,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "629,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "566.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "629,90",
+          "newPrice": "614,90",
+          "integerPart": "614,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "629,90 TL",
+          "salePriceWihoutCurrency": "629,90",
+          "salePriceNumeric": 629.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "566.91",
+              "price": "566,91 TL",
+              "priceWithoutCurrency": "566,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1070828712,
+      "brand": "VODENS",
+      "name": "Siyah Geniş Paça Jogger Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 3.7096774193548385,
+      "reviewsCount": 31,
+      "favoriteCount": "3K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/siyah-genis-paca-jogger-pantolon-p-1070828712?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1800/prod/QC_ENRICHMENT/20251218/17/3263983f-226a-3761-a82b-3c570c3fc719/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1070828712,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1070828712,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1800/prod/QC_ENRICHMENT/20251218/17/3263983f-226a-3761-a82b-3c570c3fc719/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1800/prod/QC_ENRICHMENT/20251218/17/3263983f-226a-3761-a82b-3c570c3fc719/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1802/prod/QC_ENRICHMENT/20251218/17/1caf63fc-64fb-3855-8508-15fd843dc41b/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/e9e95a72-1873-3c59-95f9-109aad1b6090/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/3606259f-fdef-393b-82b2-7e60fe824cec/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/b207f299-454b-33f1-aff9-b561d8bc3b56/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1479558810,
+        "listingId": "b70f67702687f79257be6fac4d43c9d1",
+        "name": "Siyah Geniş Paça Jogger Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.7096774193548385,
+          "totalCount": 31
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/siyah-genis-paca-jogger-pantolon-p-1070828712?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 812206335,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Siyah Geniş Paça Jogger Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "3K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 933857055,
+      "brand": "VODENS",
+      "name": "Kadın Gri Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut",
+      "categoryName": "Tayt",
+      "categoryId": 531,
+      "currentPrice": 399.9,
+      "originalPrice": 399.9,
+      "discountedPrice": 399.9,
+      "trendyolPlusPrice": 359.91,
+      "currency": "TL",
+      "rating": 3.625,
+      "reviewsCount": 8,
+      "favoriteCount": "1K",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/kadin-gri-yuksek-bel-toparlayici-cift-cepli-ispanyol-paca-tayt-bootcut-p-933857055?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250508/16/edcbb901-d96e-3600-af9c-6f4f0c78b13e/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Tayt",
+          "id": 531
+        },
+        "contentId": 933857055,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 933857055,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250508/16/edcbb901-d96e-3600-af9c-6f4f0c78b13e/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250508/16/edcbb901-d96e-3600-af9c-6f4f0c78b13e/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1675/prod/QC/20250508/16/67897f38-94c7-3597-b295-9f0251d88210/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1676/prod/QC/20250508/16/21ec0042-eef7-3ac3-8b7e-511001b422bf/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1321024210,
+        "listingId": "e3a7e5e157cb42429d123a455ee878c3",
+        "name": "Kadın Gri Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 399.9,
+          "currentText": "399,90",
+          "originalPrice": 399.9,
+          "originalPriceText": "399,90",
+          "discountedPrice": 399.9,
+          "discountedPriceText": "399,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.625,
+          "totalCount": 8
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/kadin-gri-yuksek-bel-toparlayici-cift-cepli-ispanyol-paca-tayt-bootcut-p-933857055?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 707059961,
+        "variantValue": "XL",
+        "variantId": "xl",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Kadın Gri Yüksek Bel Toparlayıcı Çift Cepli Ispanyol Paça Tayt Bootcut"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "1K"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "399,90 TL",
+          "priceNumerized": 399.9,
+          "priceWithoutCurrency": "399,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "399,90 TL",
+          "salePriceWihoutCurrency": "399,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "399,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "359.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "399,90",
+          "newPrice": "384,90",
+          "integerPart": "384,90",
+          "decimalPart": "00",
+          "discountPercentage": 4,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "399,90 TL",
+          "salePriceWihoutCurrency": "399,90",
+          "salePriceNumeric": 399.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "359.91",
+              "price": "359,91 TL",
+              "priceWithoutCurrency": "359,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1070828869,
+      "brand": "VODENS",
+      "name": "Lacivert Geniş Paça Jogger Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 3.3333333333333335,
+      "reviewsCount": 6,
+      "favoriteCount": "995",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/lacivert-genis-paca-jogger-pantolon-p-1070828869?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/60c267e4-52a1-345f-91af-a4cbc5246bb6/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1070828869,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1070828869,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/60c267e4-52a1-345f-91af-a4cbc5246bb6/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/60c267e4-52a1-345f-91af-a4cbc5246bb6/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/b0a2e6f7-2467-3ba7-915a-0f40ff271556/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1802/prod/QC_ENRICHMENT/20251218/17/ff79fa77-a795-31be-befc-2be24488b6f3/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/d565db09-5c8b-3a25-b3d1-84ae31d6ef67/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/b207f299-454b-33f1-aff9-b561d8bc3b56/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1479556869,
+        "listingId": "0898d9a37b834fe7a2092bc6f22f2dbd",
+        "name": "Lacivert Geniş Paça Jogger Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 3.3333333333333335,
+          "totalCount": 6
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/lacivert-genis-paca-jogger-pantolon-p-1070828869?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 812206335,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": false,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Lacivert Geniş Paça Jogger Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "995"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    },
+    {
+      "id": 1070828699,
+      "brand": "VODENS",
+      "name": "Haki Geniş Paça Jogger Pantolon",
+      "categoryName": "Pantolon",
+      "categoryId": 529,
+      "currentPrice": 619.9,
+      "originalPrice": 619.9,
+      "discountedPrice": 619.9,
+      "trendyolPlusPrice": 557.91,
+      "currency": "TL",
+      "rating": 4,
+      "reviewsCount": 3,
+      "favoriteCount": "389",
+      "orderCount": null,
+      "url": "https://www.trendyol.com/vodens/haki-genis-paca-jogger-pantolon-p-1070828699?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/503c2ac7-23c9-32be-b358-2389729aeec2/1_org_zoom.jpg",
+      "isFreeCargo": true,
+      "isRushDelivery": false,
+      "raw": {
+        "boutiqueId": 61,
+        "brand": "VODENS",
+        "webBrands": [],
+        "brandId": 1703401,
+        "campaignId": 61,
+        "merchantId": 703274,
+        "category": {
+          "name": "Pantolon",
+          "id": 529
+        },
+        "contentId": 1070828699,
+        "discount": {
+          "discountName": ""
+        },
+        "id": 1070828699,
+        "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/503c2ac7-23c9-32be-b358-2389729aeec2/1_org_zoom.jpg",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/503c2ac7-23c9-32be-b358-2389729aeec2/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1800/prod/QC_ENRICHMENT/20251218/17/f1f73a1e-dd9c-3594-80cf-d7fb1fa3e193/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1802/prod/QC_ENRICHMENT/20251218/17/aec173cb-babc-3f67-83e7-394260086835/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/f9615fd1-4fe8-3560-9d45-fdd3fbff0f6f/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/mnresize/400/-/ty1801/prod/QC_ENRICHMENT/20251218/17/b207f299-454b-33f1-aff9-b561d8bc3b56/1_org_zoom.jpg"
+        ],
+        "itemNumber": 1479552418,
+        "listingId": "df9e9f07b0362a9ca2b60b941f62de72",
+        "name": "Haki Geniş Paça Jogger Pantolon",
+        "price": {
+          "old": 0,
+          "oldText": "0",
+          "currency": "TL",
+          "current": 619.9,
+          "currentText": "619,90",
+          "originalPrice": 619.9,
+          "originalPriceText": "619,90",
+          "discountedPrice": 619.9,
+          "discountedPriceText": "619,90",
+          "currencySymbol": "TL"
+        },
+        "ratingScore": {
+          "averageRating": 4,
+          "totalCount": 3
+        },
+        "stamps": {},
+        "tagDetails": [],
+        "badges": {
+          "unknownBadge": {
+            "title": "Kargo Bedava",
+            "type": "FREE_CARGO"
+          }
+        },
+        "stock": {},
+        "url": "/vodens/haki-genis-paca-jogger-pantolon-p-1070828699?boutiqueId=61&merchantId=703274&filterOverPriceListings=false&sav=true",
+        "placeholder": "https://cdn.dsmcdn.com/sfweb-search/images/trendyol-product-card-placeholder_1759241898120.svg",
+        "isSexualContent": false,
+        "hasCollectableCoupon": false,
+        "emptyRating": false,
+        "groupId": 812206335,
+        "variantValue": "XS",
+        "variantId": "xs",
+        "isOneSize": false,
+        "hasReviewPhoto": true,
+        "cleanUrlFragments": {
+          "brandName": "VODENS",
+          "name": "Haki Geniş Paça Jogger Pantolon"
+        },
+        "socialProof": [
+          {
+            "key": "favoriteCount",
+            "value": "389"
+          }
+        ],
+        "promotions": [
+          {
+            "id": 28658611,
+            "shortName": "Plus'a Özel Fiyat",
+            "name": "Trendyol Plus'a Özel Fiyat",
+            "discountType": 2
+          }
+        ],
+        "freeCargo": true,
+        "recommendedRetailPrice": {
+          "isPriceDiscounted": false,
+          "price": "619,90 TL",
+          "priceNumerized": 619.9,
+          "priceWithoutCurrency": "619,90",
+          "suggestedPrice": null,
+          "suggestedPriceWithoutCurrency": null,
+          "suggestedPriceNumerized": null,
+          "suggestedPricePercentage": null,
+          "lowestRecentPrice": null,
+          "lowestRecentPriceNumerized": null,
+          "lowestRecentPriceWithoutCurrency": null,
+          "lowestRecentPercentage": null,
+          "currency": "TL"
+        },
+        "binaryPrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "strikethroughPrice": null,
+          "strikethroughPriceType": null,
+          "discountPercentage": null,
+          "currency": "TL",
+          "discountType": "rrp"
+        },
+        "discountBoxType": 0,
+        "isChoiceNNStoreProduct": false,
+        "choiceNNPrice": {
+          "priceWithoutCurrency": "619,90",
+          "lowestRecentPriceWithoutCurrency": null,
+          "currency": "TL"
+        },
+        "hasFlashSaleTag": false,
+        "hasFastDeliveryTag": false,
+        "priceLabels": [
+          {
+            "name": "TY Plus",
+            "type": 4,
+            "value": "557.91"
+          }
+        ],
+        "tagStockBar": {
+          "isSoldOut": false
+        },
+        "appPrice": {
+          "oldPrice": "619,90",
+          "newPrice": "604,90",
+          "integerPart": "604,90",
+          "decimalPart": "00",
+          "discountPercentage": 2,
+          "currency": "TL",
+          "codeName": "HELLO40",
+          "discountLimit": 38
+        },
+        "hasCodePromo": false,
+        "cardType": "PRODUCT",
+        "advertType": "DEFAULT",
+        "advert": {
+          "adScore": 0,
+          "adScores": {},
+          "advertId": "",
+          "advertSlot": 0,
+          "cpc": 0,
+          "eCpc": 0,
+          "minCpc": 0,
+          "sortingScore": 0,
+          "oCpc": 0
+        },
+        "stripBadge": {
+          "type": "CROSS_PROMOTION",
+          "title": "Birlikte Al Kazan",
+          "color": "#F27A1A"
+        },
+        "simplifiedBadges": [
+          {
+            "type": "FREE_CARGO",
+            "title": "Kargo Bedava",
+            "icon": "https://cdn.dsmcdn.com/sfweb-search/images/icon_1746526403138.svg",
+            "color": "#666"
+          }
+        ],
+        "hasOfficialSellerBadge": true,
+        "singlePrice": {
+          "salePrice": "619,90 TL",
+          "salePriceWihoutCurrency": "619,90",
+          "salePriceNumeric": 619.9,
+          "currency": "TL",
+          "componentType": "DEFAULT",
+          "storefrontType": "TR",
+          "priceLabels": {
+            "4": {
+              "name": "TY Plus",
+              "value": "557.91",
+              "price": "557,91 TL",
+              "priceWithoutCurrency": "557,91"
+            }
+          }
+        },
+        "singlePromotion": {
+          "discountType": 2,
+          "id": 28658611,
+          "name": "Trendyol Plus'a Özel Fiyat",
+          "promotionEndDate": "2026-06-30T00:00:00",
+          "shortName": "Plus'a Özel Fiyat"
+        },
+        "rushDelivery": false,
+        "sameDayShipping": true,
+        "dealBadge": null
+      }
+    }
+  ]
+}
