@@ -143,11 +143,8 @@
                     renderError(err.message);
                 });
         } else {
-            // Default to anasayfa
-            Promise.all(CATEGORIES.map(cat => fetchCategoryProducts(cat)))
-                .then(results => {
-                    return results.flat();
-                })
+            // Parametre yoksa varsayılan olarak anasayfa.json döndür
+            fetchCategoryProducts('anasayfa')
                 .then(products => {
                     const mapped = products.map(mapToListStyle);
                     renderJSON(mapped);
