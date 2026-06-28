@@ -17,7 +17,7 @@
 </head>
 <body>
 <script>
-    const CATEGORIES = ['aksesuar', 'alt_giyim', 'dis_giyim', 'elbise', 'ust_giyim'];
+    const CATEGORIES = ['anasayfa', 'aksesuar', 'alt_giyim', 'dis_giyim', 'elbise', 'ust_giyim'];
     const TURKISH_MONTHS = {
         1: "Ocak", 2: "Şubat", 3: "Mart", 4: "Nisan", 5: "Mayıs", 6: "Haziran",
         7: "Temmuz", 8: "Ağustos", 9: "Eylül", 10: "Ekim", 11: "Kasım", 12: "Aralık"
@@ -128,16 +128,11 @@
             });
         } else if (bolum) {
             let fetchPromise;
-            if (bolum === 'anasayfa') {
-                fetchPromise = Promise.all(CATEGORIES.map(cat => fetchCategoryProducts(cat)))
-                    .then(results => results.flat());
-            } else {
-                if (!CATEGORIES.includes(bolum)) {
-                    renderError(`Invalid bolum: ${bolum}`);
-                    return;
-                }
-                fetchPromise = fetchCategoryProducts(bolum);
+            if (!CATEGORIES.includes(bolum)) {
+                renderError(`Invalid bolum: ${bolum}`);
+                return;
             }
+            fetchPromise = fetchCategoryProducts(bolum);
 
             fetchPromise
                 .then(products => {
